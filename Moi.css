@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+p {
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.Moi {
+    text-align: center;
+}
+
+.centre-interet {
+    margin-top: 30px;
+}
+
+.interests-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.interests-list {
+    list-style-type: disc;
+    margin-left: 20px;
+}
